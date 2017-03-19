@@ -19,11 +19,11 @@ public class PojoAddressBookTest {
 
 
     
-    public void testAddressBook(){
+    /*public void testAddressBook(){
         PojoAddressBook addressBook = new PojoAddressBook("");
         
         super.testEmptyAddressBook(addressBook);
-    }
+    }*/
     
     /*public PojoAddressBookTest() {
     }
